@@ -6,7 +6,7 @@
 
 
 body{
-    background-color: #548687;
+    background-color: #E5A737;
     text-align: center;
 }
 
@@ -41,7 +41,7 @@ body{
     border: none;
     box-shadow: 0 0 1rem rgba(0, 0, 0, 1);
     font-size: 8vmin;
-    color: rgb(94, 45, 52);
+    color: #6F183A;
     background-color: azure;
 
 }
